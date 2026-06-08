@@ -1,0 +1,51 @@
+# OS Files
+.DS_Store
+Thumbs.db
+.Thumbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+$RECYCLE.BIN/
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-project
+.sublime-workspace
+*.code-workspace
+
+# Node/npm (if needed for build tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+.npm-cache/
+
+# Build artifacts
+dist/
+build/
+*.min.js
+*.min.css
+*.map
+
+# Local development
+.env
+.env.local
+.env.*.local
+local/
+
+# Temporary files
+*.tmp
+*.temp
+.tmp/
+
+# OS/Editor specific
+.AppleDouble
+.LSOverride
+.TemporaryItems
+Icon?
+

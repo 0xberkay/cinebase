@@ -1,0 +1,28 @@
+{
+  "name": "CINEBASE — AI Photo Upscaler & Enhancer",
+  "short_name": "CINEBASE",
+  "description": "On-device AI photo upscaler. Restore, upscale and grade your photos to 4K and 8K cinema masters with 14 cinematic film looks.",
+  "start_url": "/cinebase/index.html",
+  "scope": "/cinebase/",
+  "display": "standalone",
+  "background_color": "#0A0A0C",
+  "theme_color": "#0A0A0C",
+  "orientation": "portrait",
+  "lang": "en-US",
+  "categories": ["photography", "utilities"],
+  "screenshots": [
+    { "src": "img/screen-home.jpg", "sizes": "704x1408", "type": "image/jpeg", "label": "Home — restore any photo" },
+    { "src": "img/screen-editor.jpg", "sizes": "704x1408", "type": "image/jpeg", "label": "Editing room" },
+    { "src": "img/screen-looks.jpg", "sizes": "704x1408", "type": "image/jpeg", "label": "14 film looks" },
+    { "src": "img/screen-result.jpg", "sizes": "704x1408", "type": "image/jpeg", "label": "Before & after 8K master" }
+  ],
+  "icons": [
+    { "src": "img/logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "img/icon.jpg", "sizes": "512x512", "type": "image/jpeg", "purpose": "any maskable" }
+  ],
+  "related_applications": [
+    { "platform": "play", "url": "https://play.google.com/store/apps/details?id=app.cinebase" },
+    { "platform": "itunes", "url": "https://apps.apple.com/app/cinebase/id000000000" }
+  ],
+  "prefer_related_applications": false
+}

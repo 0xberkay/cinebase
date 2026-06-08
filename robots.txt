@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://0xberkay.github.io/cinebase/sitemap.xml
